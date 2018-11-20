@@ -50,7 +50,6 @@ if (command == "emb")    {
 
 
 
-const jackeo = ['' , '434327219310034954' , '432619208363474945' , ''];
 client2.on('message', message => {
 var prefix = "-";
   if (message.author.bot) return;
