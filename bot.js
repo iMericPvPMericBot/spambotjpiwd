@@ -83,13 +83,13 @@ if (command == "emb")    {
 
 client.on('message', message => {
     if(message.content === 'ريب'){
-        message.channel.send('#rep @!          Huler | ♠MЄRĪĈ⚠#4271 ')
+        message.channel.send('#rep <@!434327219310034954>')
     }
 });
 
 client2.on('message', message => {
     if(message.content === 'ريب'){
-        message.channel.send('#rep @!          Huler | ♠MЄRĪĈ⚠#4271 ')
+        message.channel.send('#rep <@!434327219310034954>')
     }
 });
 
@@ -136,7 +136,7 @@ if (message.content === '!spam') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(`**Credit Spam , Frame , Credit By Kahrba , Farm Credit By Kahrba, ez Farm - كردت اسبام اسبام اسبام اوف ءف اح اح نار ج **[ " ${x} " ]`)
+        message.channel.send(`**boom boom lol lol lol lol lol lol | يا عمي سباااااااااااااااااام = كريديييييييييييتتتتتتتتتتت لول لول لول انا بوت محشش صح **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
